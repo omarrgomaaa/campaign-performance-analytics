@@ -88,7 +88,20 @@ def generate_campaign_data(num_rows=10000):
             }
         )
 
-    return pd.DataFrame(rows)
+    df = pd.DataFrame(rows)
+
+    # Introduce controlled data-quality issues
+    df.loc[[100, 500, 1000], "country"] = None
+
+    df.loc[[200, 700], "platform"] = ["meta", "GOOGLE ADS"]
+
+    df.loc[[300, 800], "spend"] = [-500, -100]
+
+    df.loc[[400, 900], "date"] = ["15/03/2026", "2026/04/20"]
+
+    df = pd.concat([df, df.iloc[[50, 150, 250]]], ignore_index=True)
+
+    return df
 
 
 if __name__ == "__main__":

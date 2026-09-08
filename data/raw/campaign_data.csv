@@ -99,7 +99,7 @@ CMP00097,Flash Sale,Meta,2026-02-22,UAE,Traffic,Video,45971,3090,270,2441.75,662
 CMP00098,New Product Launch,Google Ads,2026-02-03,USA,Conversions,Carousel,293228,6978,240,19547.77,8165.33
 CMP00099,New Product Launch,Google Ads,2026-03-09,USA,Awareness,Image,37472,543,37,964.73,2140.45
 CMP00100,Free Shipping,TikTok,2026-02-26,USA,Conversions,Story,332493,2743,328,21352.16,64476.09
-CMP00101,Eid Offers,Meta,2026-06-25,Egypt,Lead Generation,Story,66603,2782,382,1317.2,26461.74
+CMP00101,Eid Offers,Meta,2026-06-25,,Lead Generation,Story,66603,2782,382,1317.2,26461.74
 CMP00102,Eid Offers,Meta,2026-06-02,Saudi Arabia,Awareness,Carousel,288164,7814,631,12380.38,138646.91
 CMP00103,Eid Offers,Google Ads,2026-03-28,UK,Lead Generation,Video,443805,17313,1181,10810.05,223640.51
 CMP00104,Back to School,TikTok,2026-08-01,Saudi Arabia,Lead Generation,Image,54755,656,15,3105.68,4522.69
@@ -199,7 +199,7 @@ CMP00197,Summer Sale,Meta,2026-07-15,USA,Conversions,Image,13346,479,61,400.96,1
 CMP00198,Brand Awareness,LinkedIn,2026-01-05,UAE,Conversions,Story,13466,604,40,281.62,10781.52
 CMP00199,Back to School,TikTok,2026-08-24,Egypt,Lead Generation,Video,60496,2681,117,3010.11,12626.91
 CMP00200,Brand Awareness,LinkedIn,2026-05-25,Egypt,Awareness,Story,137510,10900,453,10629.73,149840.21
-CMP00201,Eid Offers,Meta,2026-05-22,Egypt,Lead Generation,Story,259563,2390,27,6784.96,5055.08
+CMP00201,Eid Offers,meta,2026-05-22,Egypt,Lead Generation,Story,259563,2390,27,6784.96,5055.08
 CMP00202,Ramadan Offers,TikTok,2026-02-24,USA,Conversions,Image,482526,33829,4541,19936.41,184056.69
 CMP00203,Winter Collection,TikTok,2026-01-05,USA,Conversions,Video,118610,5815,670,6546.51,81724.26
 CMP00204,Free Shipping,Google Ads,2026-03-26,USA,Traffic,Story,211245,13027,385,19252.6,101877.36
@@ -299,7 +299,7 @@ CMP00297,Free Shipping,TikTok,2026-08-14,USA,Lead Generation,Video,308148,2209,8
 CMP00298,Black Friday,LinkedIn,2026-04-05,Egypt,Awareness,Video,441754,17589,1153,43070.89,244752.53
 CMP00299,Brand Awareness,LinkedIn,2026-05-31,USA,Lead Generation,Video,299057,9340,307,28435.71,93026.69
 CMP00300,New Product Launch,TikTok,2026-08-07,Egypt,Lead Generation,Image,310028,19682,787,8199.94,71197.42
-CMP00301,Brand Awareness,LinkedIn,2026-08-22,USA,Conversions,Image,79370,4250,400,1604.48,55954.09
+CMP00301,Brand Awareness,LinkedIn,2026-08-22,USA,Conversions,Image,79370,4250,400,-500.0,55954.09
 CMP00302,Winter Collection,TikTok,2026-04-28,UAE,Lead Generation,Story,142119,3036,158,6247.17,38732.96
 CMP00303,Black Friday,Meta,2026-06-25,USA,Awareness,Carousel,66677,2742,156,2198.43,19023.38
 CMP00304,Summer Sale,TikTok,2026-07-26,Saudi Arabia,Traffic,Video,459480,29947,2815,23957.76,800484.9
@@ -399,7 +399,7 @@ CMP00397,Winter Collection,Meta,2026-04-03,UK,Awareness,Carousel,303784,14220,17
 CMP00398,Winter Collection,Google Ads,2026-03-25,USA,Traffic,Carousel,362946,15709,1860,18386.13,127766.96
 CMP00399,Eid Offers,LinkedIn,2026-06-11,Saudi Arabia,Traffic,Carousel,331026,15847,2041,8450.62,154111.34
 CMP00400,Black Friday,TikTok,2026-08-16,UAE,Awareness,Story,243254,15464,2187,13926.75,427515.33
-CMP00401,Ramadan Offers,Google Ads,2026-06-19,Saudi Arabia,Conversions,Video,141935,10720,1158,3297.84,80932.34
+CMP00401,Ramadan Offers,Google Ads,15/03/2026,Saudi Arabia,Conversions,Video,141935,10720,1158,3297.84,80932.34
 CMP00402,Eid Offers,Meta,2026-05-15,UK,Conversions,Image,411078,32763,804,22681.9,66943.28
 CMP00403,Black Friday,LinkedIn,2026-04-24,UAE,Traffic,Video,338456,4901,410,11479.2,19075.72
 CMP00404,Free Shipping,TikTok,2026-04-24,UK,Lead Generation,Carousel,80839,6282,676,1928.55,164242.49
@@ -499,7 +499,7 @@ CMP00497,Free Shipping,Meta,2026-01-21,Saudi Arabia,Awareness,Story,284389,20403
 CMP00498,Winter Collection,Meta,2026-05-17,USA,Awareness,Image,418172,2429,178,30900.23,34869.92
 CMP00499,Summer Sale,TikTok,2026-06-27,UAE,Awareness,Video,493846,24604,1293,29346.19,168224.71
 CMP00500,Flash Sale,Google Ads,2026-01-07,USA,Conversions,Carousel,160374,6632,184,3687.87,44320.03
-CMP00501,Back to School,TikTok,2026-06-04,UAE,Awareness,Image,101547,7439,843,5286.6,104963.92
+CMP00501,Back to School,TikTok,2026-06-04,,Awareness,Image,101547,7439,843,5286.6,104963.92
 CMP00502,Winter Collection,Google Ads,2026-01-22,UK,Traffic,Image,86058,4274,534,6872.73,138347.8
 CMP00503,Ramadan Offers,LinkedIn,2026-05-28,Saudi Arabia,Lead Generation,Video,395016,26915,473,16528.03,101744.68
 CMP00504,Brand Awareness,LinkedIn,2026-07-11,UK,Lead Generation,Carousel,404488,30006,1281,31249.36,176781.29
@@ -699,7 +699,7 @@ CMP00697,Summer Sale,LinkedIn,2026-01-19,Saudi Arabia,Conversions,Carousel,19763
 CMP00698,Ramadan Offers,TikTok,2026-03-14,Egypt,Conversions,Video,101302,2169,101,2400.42,25915.81
 CMP00699,Back to School,Google Ads,2026-01-06,Egypt,Traffic,Carousel,445917,24886,1569,33938.39,147279.88
 CMP00700,Winter Collection,TikTok,2026-06-19,UK,Traffic,Carousel,99841,7546,1107,7175.09,425584.72
-CMP00701,Ramadan Offers,Meta,2026-02-19,Egypt,Traffic,Video,289212,9649,602,15608.97,174768.66
+CMP00701,Ramadan Offers,GOOGLE ADS,2026-02-19,Egypt,Traffic,Video,289212,9649,602,15608.97,174768.66
 CMP00702,New Product Launch,Meta,2026-03-25,USA,Traffic,Carousel,139589,1255,152,10013.47,59187.21
 CMP00703,Flash Sale,LinkedIn,2026-01-17,Saudi Arabia,Conversions,Story,97783,4218,485,7236.78,95870.68
 CMP00704,Free Shipping,LinkedIn,2026-06-27,Saudi Arabia,Awareness,Carousel,263386,15453,1224,11108.13,251913.92
@@ -799,7 +799,7 @@ CMP00797,Eid Offers,Google Ads,2026-04-06,UAE,Traffic,Story,166911,5397,728,9572
 CMP00798,Eid Offers,LinkedIn,2026-01-02,Saudi Arabia,Traffic,Carousel,198343,14135,1544,5722.44,154578.3
 CMP00799,Ramadan Offers,LinkedIn,2026-08-31,UAE,Conversions,Video,261288,20113,2968,7717.91,567189.1
 CMP00800,New Product Launch,Google Ads,2026-01-29,UAE,Lead Generation,Story,66559,4289,118,2860.24,5796.86
-CMP00801,Eid Offers,Meta,2026-05-03,UAE,Lead Generation,Image,161763,4232,91,6936.7,23960.05
+CMP00801,Eid Offers,Meta,2026-05-03,UAE,Lead Generation,Image,161763,4232,91,-100.0,23960.05
 CMP00802,Black Friday,Google Ads,2026-06-29,Saudi Arabia,Awareness,Image,139684,7679,538,7357.64,115846.39
 CMP00803,Back to School,Google Ads,2026-02-03,Saudi Arabia,Traffic,Video,220387,1736,258,19107.58,47519.5
 CMP00804,Free Shipping,Meta,2026-03-20,Egypt,Lead Generation,Story,377084,19796,839,13896.13,159130.11
@@ -899,7 +899,7 @@ CMP00897,Ramadan Offers,LinkedIn,2026-04-14,UK,Traffic,Carousel,102612,5084,427,
 CMP00898,Summer Sale,Google Ads,2026-08-18,Egypt,Traffic,Image,28710,1382,60,1637.24,9250.65
 CMP00899,Ramadan Offers,LinkedIn,2026-07-07,UK,Lead Generation,Image,442049,31369,1491,16303.7,384157.72
 CMP00900,Back to School,TikTok,2026-02-17,USA,Awareness,Image,273842,20013,1943,15536.92,657914.52
-CMP00901,New Product Launch,Google Ads,2026-03-27,UAE,Conversions,Video,481790,18857,2728,32297.2,335589.62
+CMP00901,New Product Launch,Google Ads,2026/04/20,UAE,Conversions,Video,481790,18857,2728,32297.2,335589.62
 CMP00902,Flash Sale,TikTok,2026-04-01,Egypt,Traffic,Image,258423,12594,986,7230.51,86819.97
 CMP00903,Back to School,TikTok,2026-01-26,Saudi Arabia,Traffic,Video,169699,11079,631,7161.93,96430.67
 CMP00904,Summer Sale,LinkedIn,2026-07-31,UAE,Awareness,Story,194877,5375,304,12327.28,91100.9
@@ -999,7 +999,7 @@ CMP00997,New Product Launch,Meta,2026-06-10,Egypt,Lead Generation,Story,431083,1
 CMP00998,Free Shipping,Meta,2026-03-24,UK,Awareness,Carousel,332489,23844,2120,8573.72,306103.69
 CMP00999,Brand Awareness,TikTok,2026-02-23,USA,Awareness,Story,183107,13647,1512,11602.61,125728.74
 CMP01000,New Product Launch,LinkedIn,2026-02-08,Egypt,Awareness,Story,256674,2574,377,11768.64,41322.89
-CMP01001,Flash Sale,LinkedIn,2026-04-30,UAE,Conversions,Image,321665,5382,317,21470.72,37588.82
+CMP01001,Flash Sale,LinkedIn,2026-04-30,,Conversions,Image,321665,5382,317,21470.72,37588.82
 CMP01002,Flash Sale,Google Ads,2026-07-06,UAE,Awareness,Story,170301,5542,650,14831.43,150878.96
 CMP01003,Ramadan Offers,Google Ads,2026-03-13,Egypt,Traffic,Image,103493,2558,62,7950.03,15966.09
 CMP01004,Ramadan Offers,TikTok,2026-02-13,USA,Awareness,Story,11400,726,107,214.81,24367.42
@@ -9999,3 +9999,6 @@ CMP09997,Free Shipping,Meta,2026-07-28,Saudi Arabia,Awareness,Image,197228,13172
 CMP09998,Eid Offers,Google Ads,2026-06-25,UK,Traffic,Story,247802,4150,198,20840.32,12901.55
 CMP09999,Ramadan Offers,Google Ads,2026-02-27,UK,Awareness,Story,258601,13750,1814,10270.1,152018.67
 CMP10000,Summer Sale,TikTok,2026-06-28,UK,Awareness,Video,11446,374,41,770.65,11778.08
+CMP00051,New Product Launch,Meta,2026-05-02,USA,Traffic,Video,360989,4901,699,16326.52,76918.24
+CMP00151,Summer Sale,Google Ads,2026-01-21,Saudi Arabia,Awareness,Image,33835,2576,303,1253.01,33302.86
+CMP00251,Summer Sale,Google Ads,2026-02-11,Egypt,Conversions,Video,270263,20668,1720,20480.07,362570.29
