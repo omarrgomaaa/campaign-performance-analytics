@@ -3,6 +3,7 @@
 An end-to-end data analytics project for analyzing advertising campaign performance across Meta, Google Ads, TikTok, and LinkedIn.
 
 ## Dashboard
+Link -> https://public.tableau.com/views/Book1_17905283222390/CampaignPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![Campaign Performance Dashboard](dashboard/dashboard_preview.png)
 
